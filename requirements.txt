@@ -1,0 +1,12 @@
+openai
+pandas
+numpy
+python-dotenv
+ipykernel
+langchain
+chromadb
+tiktoken
+streamlit
+pypdf2
+faiss-cpu
+huggingface_hub
