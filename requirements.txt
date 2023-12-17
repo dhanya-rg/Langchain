@@ -10,3 +10,4 @@ streamlit
 pypdf2
 faiss-cpu
 huggingface_hub
+pinecode-client
