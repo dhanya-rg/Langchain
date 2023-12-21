@@ -10,4 +10,12 @@ streamlit
 pypdf2
 faiss-cpu
 huggingface_hub
-pinecode-client
+pinecone-client
+unstructured
+pdf2image
+pdfminer
+unstructured_pytesseract
+opencv-python
+pikepdf
+pypdf
+unstructured_inference
